@@ -1,7 +1,7 @@
 # Carvana_Image_Masking_Challenge
 
 - This repo consists of predicting the cars' image masks of the Carvana dataset - a challenge hosted on Kaggle.
-- This is a task of Segmentation, and the model used is UNET with BCE Loss and Adam Optimizer.
+- This is a task of binary Segmentation (background and foreground), and the model used is UNET with BCE Loss and Adam Optimizer.
 - The UNET architecture is given below: 
 ![alt text](https://github.com/213079003/Carvana_Masking_Challenge/blob/main/UNET.png)
 
